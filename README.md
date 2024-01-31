@@ -1,7 +1,7 @@
   ### Bem vindo meu nome é Rubens 👋
 📖Atualmente estou cursando Técnico em desenvolvimento de sistemas
 
-👨🏻‍🎓Pretendo atuar como desenvolvedor Back-end
+👨🏻‍🎓Pretendo atuar como desenvolvedor Full-Stack
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensMoura33&show_icons=true&theme=radical">
